@@ -1,16 +1,16 @@
-## Hi there 👋
+# Harsh Gupta
 
-<!--
-**whyharsh/whyharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founder & CTO at [Torque](https://www.ecstatia.com/torque/).
 
-Here are some ideas to get you started:
+We turn technicians’ work into vehicle inspections, customer videos, and warranty documentation, so they can spend more time fixing cars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previously
+
+- **Founding team at [Genie AI](https://www.genieai.co/)** — AI research and engineering for legal document review.
+- **Dr. Reddy’s** — built a drug-discovery platform for searching compounds and bio-assays.
+
+### Research
+
+My research spans reinforcement learning, game theory, and large language models, including adversarial robustness and scientific writing. B.Tech., IIT Kharagpur.
+
+[LinkedIn](https://www.linkedin.com/in/harsh-gupta-29-/) · [Torque](https://www.ecstatia.com/torque/)
