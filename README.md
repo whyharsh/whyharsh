@@ -1,16 +1,17 @@
 # Harsh Gupta
 
-Co-founder & CTO at [Torque](https://www.ecstatia.com/torque/).
+Co-founder & CTO at [Torque](https://www.ecstatia.com/torque/). AI for automotive service teams.
 
-We turn technicians’ work into vehicle inspections, customer videos, and warranty documentation, so they can spend more time fixing cars.
-
-### Previously
-
-- **Founding team at [Genie AI](https://www.genieai.co/)** — AI research and engineering for legal document review.
-- **Dr. Reddy’s** — built a drug-discovery platform for searching compounds and bio-assays.
+Previously on the founding team at [Genie AI](https://www.genieai.co/). Built the AI agent stack used by 200,000+ businesses for legal work. Worked on a patent-pending architecture for self-correcting reasoning.
 
 ### Research
 
-My research spans reinforcement learning, game theory, and large language models, including adversarial robustness and scientific writing. B.Tech., IIT Kharagpur.
+**ETH Zürich:** LLMs for scientific writing, with citation retrieval and evaluation.
+
+**NTU Singapore:** Multilingual transcript denormalization using LLMs.
+
+**University of Birmingham:** Multi-agent reinforcement learning and evolutionary game theory. [Paper, IEEE CDC 2023](https://doi.org/10.1109/CDC49753.2023.10383787) · [PDF](https://pure-oai.bham.ac.uk/ws/portalfiles/portal/219893818/ZhangT2024Multi-agent_AAM.pdf)
+
+IIT Kharagpur, B.Tech.
 
 [LinkedIn](https://www.linkedin.com/in/harsh-gupta-29-/) · [Torque](https://www.ecstatia.com/torque/)
